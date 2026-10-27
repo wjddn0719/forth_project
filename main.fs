@@ -1,0 +1,4 @@
+: HELLO
+    S" Hello! !!!!"
+    TYPE
+;
